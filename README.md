@@ -12,3 +12,8 @@ I know, you are looking for a way to visit my page ;)
 # Screenshot
 
 ![Screenshot](https://i.imgur.com/zP2dvTa.png)
+
+# Logo
+![Logo](https://i.imgur.com/J025tvM.png)
+
+
