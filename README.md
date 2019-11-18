@@ -15,5 +15,3 @@ I know, you are looking for a way to visit my page ;)
 
 # Logo
 ![Logo](https://i.imgur.com/J025tvM.png)
-
-
