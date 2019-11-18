@@ -1,17 +1,4 @@
-# nuhkoca.com
-Visit my official website to reach me at any platform
+# Official websites [nuhkoca.com](http://nuhkoca.com/)
 
-Hey there!
-
-I know, you are looking for a way to visit my page ;)
-
-## It is [nuhkoca.com](http://nuhkoca.com/)
-
-*Don't forget, you will have enough knowledge about how to reach me :)*
-
-# Screenshot
-
-![Screenshot](https://i.imgur.com/zP2dvTa.png)
-
-# Logo
-![Logo](https://i.imgur.com/J025tvM.png)
+This repository is to allow you to easily visit my website. You can find contact
+info to reach me.
